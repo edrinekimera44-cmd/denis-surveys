@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; }
+header { background: #004080; padding: 1em; }
+header nav ul { list-style:none; display:flex; gap:1em; }
+header nav ul li a { color: white; text-decoration:none; }
+section { padding:2em; }
+#hero { background:#e0f0ff; text-align:center; padding:5em 2em; }
+.btn { background:#004080; color:white; padding:0.5em 1em; text-decoration:none; border-radius:4px; }
